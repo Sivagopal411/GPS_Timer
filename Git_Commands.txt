@@ -1,0 +1,17 @@
+1. git init Arduino_GPS_Timer
+
+2. cd Arduino_GPS_Timer
+
+3. Copy Project Files to Arduini_GPS_Timer
+
+4. git ls-files
+
+5. git add ./*
+
+6. git status
+
+7. git commit -m "GPS_Timer_1_Sourcecode_2_Documentation
+
+8. git branch
+
+9. git push https://github.com/Sivagopal411/GPS_Timer.git master

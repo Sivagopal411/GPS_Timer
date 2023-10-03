@@ -15,7 +15,7 @@ void setup()
   lcd.setCursor(0,0);
   lcd.print("Sivagopal");
   lcd.setCursor(0,1);
-  lcd.print(" Jyothi Sri");
+  lcd.print(" GPS Timer");
   delay(300);
 }
 
